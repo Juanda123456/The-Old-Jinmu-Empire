@@ -30,7 +30,7 @@
 		"outerColor": [0,0,200],
 		"innerColor": [200,0,200],
 		"uniquename": ["Glory and Loyalty"],
-		"uniques": [ "[+5]% [Culture] from every [Stable]", "[+30]% strength <when fighting in [Friendly Land] tiles>" ],
+		"uniques": [ "[+5]% [Culture] from every [Stable]", "[+30]% Strength <when fighting in [Friendly Land] tiles>" ],
 		"cities": ["Lopeng", "Ka'an", "Nging go", "So'lai", "Hom ba", "Ya' wa"],
   }
 ]
