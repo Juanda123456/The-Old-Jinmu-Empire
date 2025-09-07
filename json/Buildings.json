@@ -1,26 +1,10 @@
 [
 	{
-		"name": "Training grounds",
-		"replaces": "Barracks",
-		"uniqueTo": "Binibo",
-		"cost": 80,
-		"uniques": ["New [Military] units start with [30] XP [in this city]"],
-		"requiredTech": "Bronze Working"
-	}
-	{
-		"name": "Debate Hall",
-		"replaces": "Library",
-		"uniqueTo": "Binibo",
-		"cost": 80,
-		"uniques": ["[+2 Science] per [2] population [in this city]"],
-		"requiredTech": "Writing"
-	}
-	{
-		"name": "",
-		"uniqueTo": "Jinmu empire",
-		"isNationalWonder": true,
-		"cost": 90,
-		"uniques": ["Provides [2] [Iron]"],
-		"requiredTech": "Iron Working"
+		"name": "Jinmu Stable",
+		"uniqueTo": "Jinmu Empire",
+		"replaces": "Stable",
+		"cost": 100,
+		"uniques": ["[+30]% Production when constructing [Mounted] units, [+10]% Production, Provides [2] Horse"],
+		"requiredTech": "Horseback Riding"
   }
 ]
