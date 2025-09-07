@@ -14,7 +14,7 @@
 		"replaces": "Factory",
 		"cost": 360,
 	    "maintenance": 4,
-		"uniques": ["[+30]% Production when constructing [Armoured] units [in this city]", "[4] [Production]", "[+10]% [Production]", "Consumes [1] [Coal]"],
+		"uniques": ["[+30]% Production when constructing [Armoured] units [in this city]", "Gain [4] [Production]", "[+10]% [Production]", "Consumes [1] [Coal]"],
 		"requiredTech": "Industrialization"
   }
 ]
