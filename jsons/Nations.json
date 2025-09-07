@@ -30,7 +30,7 @@
 		"outerColor": [0,0,200],
 		"innerColor": [200,0,200],
 		"uniquename": ["Glorious Charge"],
-		"uniques": [ "[+50]% strength <for [Mounted] units>" ],
+		"uniques": [ "[+50]% strength <for [Mounted] units> <when attacking>" ],
 		"cities": ["Lopeng", "Ka'an", "Nging go", "So'lai", "Hom ba", "Ya' wa"],
   }
 ]
