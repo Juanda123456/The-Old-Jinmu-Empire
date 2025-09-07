@@ -7,4 +7,12 @@
 		"uniques": ["[+30]% Production when constructing [Mounted] units [in this city]", "[+10]% [Production]", "Provides [2] [Horses]"],
 		"requiredTech": "Horseback Riding"
   }
+  {
+		"name": "Jinmu Factory",
+		"uniqueTo": "Jinmu Empire",
+		"replaces": "Factory",
+		"cost": 360,
+		"uniques": ["[+30]% Production when constructing [Armoured] units [in this city]", "[+10]% [Production]", "Provides [2] [Oil]"],
+		"requiredTech": "Industrialization"
+  }
 ]
