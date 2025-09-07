@@ -24,6 +24,6 @@
 		"cost": 80,
 	    "maintenance": 4,
 		"uniques": ["Provides [+4] [Horses]", "All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion", "All newly-trained [Mounted] units [in all cities] receive the [Shock II] promotion"],
-		"requiredTech": "Industrialization"
+		"requiredTech": "The Wheel"
 }
 ]
