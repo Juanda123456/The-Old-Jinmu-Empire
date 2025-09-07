@@ -1,1 +1,35 @@
+[
+	{
+		"name": "Jinmu Empire",
+		"leaderName": "Ho'ut",
+		"adjective": ["Jinmu"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Jinmu, pround and ferocious, live up to their name with their fearsome cavalry. So terrifying are their charges that few could hope to stand against them!",
+		"startIntroPart2": "Will you be able to live up to their reputation?",
+		
+		"declaringWar": "You are in my way, and so, you are to be exterminated.",
+		"attacked": "We go to war then!",
+		"defeated": "NO! How could I lose to the likes of you?!",
+		"introduction": "And who are you?",
+		
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": "I will hear what you suggest.",
+		"neutralNo": "No thank you.",
+		"neutralYes": "I consent.",
 
+		"hateHello": "What brings you here....",
+		"hateLetsHearIt": "Be quick!",
+		"hateNo": "No!",
+		"hateYes": "Hmph, I will follow this plan of yours for now.",
+		
+		"afterPeace": "Be glad.",
+		"tradeRequest": "Can you accept this?",
+
+		"outerColor": [0,0,200],
+		"innerColor": [200,0,200],
+		"uniquename": ["Glorious Charge"],
+		"uniques": [ "[+30]% strength for [Mounted] units [when attacking]" ],
+		"cities": ["Lopeng", "Ka'an", "Nging go", "So'lai", "Hom ba", "Ya' wa"],
+  }
