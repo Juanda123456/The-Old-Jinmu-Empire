@@ -4,7 +4,7 @@
 		"uniqueTo": "Jinmu Empire",
 		"replaces": "Stable",
 		"cost": 100,
-		"uniques": ["[+30]% Production when constructing [Mounted] units, [+10]% Production, Provides [2] Horse"],
+		"uniques": ["[+30]% Production when constructing [Mounted] units", "[+10]% Production", "Provides [2] Horses"],
 		"requiredTech": "Horseback Riding"
   }
 ]
