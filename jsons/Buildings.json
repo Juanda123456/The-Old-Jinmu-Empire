@@ -23,7 +23,16 @@
 		"isNationalWonder": true,
 		"cost": 80,
 	    "maintenance": 4,
-		"uniques": ["Provides [+4] [Horses]", "All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion", "All newly-trained [Mounted] units [in all cities] receive the [Shock II] promotion"],
+		"uniques": ["Provides [+4] [Horses]", "New [Mounted] units start with [100] XP [in all cities]"],
 		"requiredTech": "The Wheel"
 }
+ {
+		"name": "Grand Stables",
+		"uniqueTo": "Jinmu Empire",
+		"isNationalWonder": true,
+		"cost": 80,
+	    "maintenance": 4,
+		"uniques": ["New [Armoured] units start with [100] XP [in all cities]"],
+		"requiredTech": "Industrialization"
+ }
 ]
