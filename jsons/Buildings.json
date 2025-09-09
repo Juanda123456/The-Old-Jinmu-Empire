@@ -27,10 +27,10 @@
 		"requiredTech": "The Wheel"
 }
  {
-		"name": "Grand Stables",
+		"name": "Great Factories",
 		"uniqueTo": "Jinmu Empire",
 		"isNationalWonder": true,
-		"cost": 80,
+		"cost": 360,
 	    "maintenance": 4,
 		"uniques": ["New [Armoured] units start with [100] XP [in all cities]"],
 		"requiredTech": "Industrialization"
